@@ -1,4 +1,4 @@
-# Genome Exploration II — *Phasianus coolchicus*
+# Genome Exploration II — *Phasianus colchicus*
 **Species and Genome Information**
 
 
