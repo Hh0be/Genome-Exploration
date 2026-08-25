@@ -1,20 +1,23 @@
-# Genome Exploration II — *Bucephala clangula*
+# Genome Exploration II — *Phasianus coolchicus*
 **Species and Genome Information**
 
 
-Species: *Bucephala clangula*
+**Species:** *Phasianus colchicus*
 
 
-**NCBI Assembly accession:** GCA_964059595.1
+*NCBI Assembly accession:* GCF_004143745.1
 
 
-**Assembly level:** Chromosome
+*Assembly name:* ASM414374v1
 
 
-**FASTA file:** Bucephala_clangula_fastas
+*Assembly level:* Scaffold
 
 
-**Genome source:** NCBI
+FASTA file: Phasianus_colchicus_genomic.fna
 
 
-**Approximate file size:**
+Genome source: NCBI
+
+
+*Common name:* Ring-necked pheasant
