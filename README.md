@@ -2,19 +2,19 @@
 **Species and Genome Information**
 
 
-Species: Bucephala clangula
+Species: *Bucephala clangula*
 
 
-NCBI Assembly accession: GCA_964059595.1
+**NCBI Assembly accession:** GCA_964059595.1
 
 
-Assembly level: Chromosome
+**Assembly level:** Chromosome
 
 
-FASTA file: Bucephala_clangula_fastas
+**FASTA file:** Bucephala_clangula_fastas
 
 
-Genome source: NCBI
+**Genome source:** NCBI
 
 
-Approximate file size: 
+**Approximate file size:**
