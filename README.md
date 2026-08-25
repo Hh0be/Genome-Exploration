@@ -1,4 +1,4 @@
-# Genome Exploration II — Bucephala clangula
+# Genome Exploration II — *Bucephala clangula*
 **Species and Genome Information**
 
 
