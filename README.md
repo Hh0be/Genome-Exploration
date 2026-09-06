@@ -1,8 +1,8 @@
-# Genome Exploration II: Phasianus colchicus Assembly Analysis
+# Genome Exploration II: *Phasianus colchicus* Assembly Analysis
 
 ## Objective
 
-  This project aims to analyze the structural integrity and biological potential of the Phasianus colchicus genome assembly (ASM414374v1). By generating assembly statistics, performing length-based filtering, and predicting Open Reading Frames (ORFs), we seek to evaluate the assembly's contiguity, identify high-confidence genomic regions, and estimate the number of potential protein-coding genes. The findings will inform the assembly's quality and its utility for further genomic research.
+  This project aims to analyze the structural integrity and biological potential of the *Phasianus colchicus* genome assembly (ASM414374v1). By generating assembly statistics, performing length-based filtering, and predicting Open Reading Frames (ORFs), we seek to evaluate the assembly's contiguity, identify high-confidence genomic regions, and estimate the number of potential protein-coding genes. The findings will inform the assembly's quality and its utility for further genomic research.
 
 ## 1. Genome Identity & Source
 
